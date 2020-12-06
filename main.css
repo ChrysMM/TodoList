@@ -1,5 +1,5 @@
 .strike {
-    color: red;
+    color: rgb(245, 147, 147);
     text-decoration: line-through;
 }
 * {
@@ -9,7 +9,7 @@
     cursor: pointer;
     position: relative;
     padding: 12px 8px 12px 40px;
-    background: #eee;
+    background: rgb(245, 204, 204);
     font-size: 18px;
     transition: 0.2s;
   
@@ -20,5 +20,6 @@
     user-select: none;
   }
 h1{
-    color: royalblue;
+    color: rgb(21, 29, 53);
 }  
+
